@@ -452,6 +452,11 @@ footer {
   color: #74808a;
   float: right;
 }
+.education-gpa {
+  position: absolute;
+  margin-top: 22px;
+  right: 15px;
+}
 .education-block h4 {
   color: #74808a;
   clear: both;
